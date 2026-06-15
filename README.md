@@ -2,7 +2,7 @@
 
 A weather API that fetches real-time weather data from Visual Crossing and caches results with Redis.
 
-> 🔗 Project from [roadmap.sh](https://roadmap.sh/projects/weather-api)
+> 🔗 Project from [roadmap.sh]([https://roadmap.sh/projects/weather-api](https://roadmap.sh/projects/weather-api-wrapper-service))
 
 ---
 
